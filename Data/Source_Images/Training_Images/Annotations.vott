@@ -1,0 +1,465 @@
+{
+    "name": "Annotations",
+    "securityToken": "Annotations Token",
+    "sourceConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZDE3OWYyMjNjM2ZkZGUxOGE5NGQxN2NlNzAyZjU5NDc1OWRhMGE0NDExOWJjYjUzNjY0ZTEyNzg4YmZjNWViM2MwNTM0MDI4ZmVjYTQzNDI2YTc5ZjRlZTNlN2FhMTFkNmJhZGViMzQwMGQ1MDg3YzJlMzkyZDc1OTcxMTk5YzRmY2UxM2NlYmI1N2ZhNDBhNWE0NjEwNjlmYzJkM2ExZWM5NzI2YWI2OTJlZWIwNjkyNDAwYTFhYmY2NmQyOWIwNjA3MzQyOWJlZTlmYmU1MmRkM2I0ZTlmZGE3ZDgxOGYiLCJpdiI6IjNlZWQ5ODhiOWM0YjY3MzNjYTQ4NDI5NGI1OTliZGQyYTc3NjNlM2RkMzA1MTZkZiJ9"
+        },
+        "id": "8QBDMBzp3"
+    },
+    "targetConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiY2JlZDkwYmY1YjgzMDk4ZDFlNjUxYmJmZDBmMTRmODFlYTc1NWE4OTk5MGRlMGRjOTkyNWNkOTc5N2NiMWNmMzEyMTA1N2E3OTE1OTc0ODgyMWM5MGNjMTIzN2U4ZWI5YzA3NzViZTIwN2Q4YjMwZjQwMGY0ZDkzMmY3NWNjNTljMmMxOTVlZWQ5YWJiY2U0MDcwZGVkM2RlYjMwZWYyYTM5ZDUwNDE4MzkzOGRlMzVlYWU4MWZkZjkzYmYyOGYzZmU0OWY3MDdmODRjYjY1ZTFiN2QyNmYxYWU3NzE5ZDUiLCJpdiI6IjQyNjQ1MDVlNjY2M2ViYTI5ZDJlZTdlYzZmYWQwMzE4NDNkOWM4ZDhhYTI5M2M2NyJ9"
+        },
+        "id": "8QBDMBzp3"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "chicken",
+            "color": "#5db300"
+        }
+    ],
+    "id": "PzAcPcGyZ",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNGNmNjMwZDQyZWY4OWNiYTM5M2U0NTRmYmMxYmU0ZTA1MWUzM2VhYTA2MzA5MmY3M2Q2MDRmMjkzZmZjZDQxZWMxMjY3ZDQxODI0N2E3ZDk3YjcyYTIwMTVhY2ExNjY0IiwiaXYiOiJiYjE1YjkxNDMyYjZmOThmYzJiOTM2Zjc2NjE5OTJlYmIxYTk1ZDRlOWE1Yzc2MjcifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "950c8461d8ff3693ed07f75c86d31167",
+    "assets": {
+        "c2840e453425df76d8008b4ed9e35d28": {
+            "format": "jpeg",
+            "id": "c2840e453425df76d8008b4ed9e35d28",
+            "name": "OIP-1zHoGzG2DuTuR0btWfS8igHaE8.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-1zHoGzG2DuTuR0btWfS8igHaE8.jpeg",
+            "size": {
+                "width": 300,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f6ac57c7bef8550695709bf778a83b0e": {
+            "format": "jpeg",
+            "id": "f6ac57c7bef8550695709bf778a83b0e",
+            "name": "OIP-2-UK2DyeeNUtYuyH1lMJnAHaFL.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2-UK2DyeeNUtYuyH1lMJnAHaFL.jpeg",
+            "size": {
+                "width": 300,
+                "height": 210
+            },
+            "state": 2,
+            "type": 1
+        },
+        "92208194178b9930f88f331a990d863e": {
+            "format": "jpeg",
+            "id": "92208194178b9930f88f331a990d863e",
+            "name": "OIP-2AW-Ey2pmwe-sVfbVAiXZAHaHa.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2AW-Ey2pmwe-sVfbVAiXZAHaHa.jpeg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a1186090fcf3514ec6e0b6356a52eda8": {
+            "format": "jpeg",
+            "id": "a1186090fcf3514ec6e0b6356a52eda8",
+            "name": "OIP-2CysOvCCiGpYktDJq7dsUAAAAA.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2CysOvCCiGpYktDJq7dsUAAAAA.jpeg",
+            "size": {
+                "width": 226,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ba8cdceff331de8f14b11bafb660aece": {
+            "format": "jpeg",
+            "id": "ba8cdceff331de8f14b11bafb660aece",
+            "name": "OIP-2DJyMQtPudbkH28pc1PCowHaG7.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2DJyMQtPudbkH28pc1PCowHaG7.jpeg",
+            "size": {
+                "width": 300,
+                "height": 281
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8b0ff19c91dfafac62f81c5af6dac69a": {
+            "format": "jpeg",
+            "id": "8b0ff19c91dfafac62f81c5af6dac69a",
+            "name": "OIP-2EP4-hEy5iFzhf2uLLMGvQHaE8.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2EP4-hEy5iFzhf2uLLMGvQHaE8.jpeg",
+            "size": {
+                "width": 300,
+                "height": 200
+            },
+            "state": 1,
+            "type": 1
+        },
+        "28ae38b458d79aa435043fdd79b9469b": {
+            "format": "jpeg",
+            "id": "28ae38b458d79aa435043fdd79b9469b",
+            "name": "OIP-2EpNl0p3BgEqPA1-yL2ZIQHaD4.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2EpNl0p3BgEqPA1-yL2ZIQHaD4.jpeg",
+            "size": {
+                "width": 300,
+                "height": 157
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5986bd8d35fa99730ad32d6a1ee44d8d": {
+            "format": "jpeg",
+            "id": "5986bd8d35fa99730ad32d6a1ee44d8d",
+            "name": "OIP-2GQJ61GPqJsOUg69-H9dgwHaFj.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2GQJ61GPqJsOUg69-H9dgwHaFj.jpeg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c3606224793b67eddf6d553dd3b60e0e": {
+            "format": "jpeg",
+            "id": "c3606224793b67eddf6d553dd3b60e0e",
+            "name": "OIP-2HjGXr8hsCdkbUvRuNtgKgHaNK.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2HjGXr8hsCdkbUvRuNtgKgHaNK.jpeg",
+            "size": {
+                "width": 169,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3fb81d3fe742d1136a03449edbaa4970": {
+            "format": "jpeg",
+            "id": "3fb81d3fe742d1136a03449edbaa4970",
+            "name": "OIP-2MgCoXLnISUM5YgWhZ-YTAHaE8.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2MgCoXLnISUM5YgWhZ-YTAHaE8.jpeg",
+            "size": {
+                "width": 300,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0371f3f812b3a96b0f2f29b7e62eaa8c": {
+            "format": "jpeg",
+            "id": "0371f3f812b3a96b0f2f29b7e62eaa8c",
+            "name": "OIP-2PsBAARaQY8yrfE2oK37DAHaE8.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2PsBAARaQY8yrfE2oK37DAHaE8.jpeg",
+            "size": {
+                "width": 300,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dc63c3d6442eb55d7a392f972a41a78c": {
+            "format": "jpeg",
+            "id": "dc63c3d6442eb55d7a392f972a41a78c",
+            "name": "OIP-2PshZmHVWIHQ4kd0tQn7bwHaKK.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2PshZmHVWIHQ4kd0tQn7bwHaKK.jpeg",
+            "size": {
+                "width": 219,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "950c8461d8ff3693ed07f75c86d31167": {
+            "format": "jpeg",
+            "id": "950c8461d8ff3693ed07f75c86d31167",
+            "name": "OIP-2QWoo_Jj2H5bExE4iUKqQQHaFw.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2QWoo_Jj2H5bExE4iUKqQQHaFw.jpeg",
+            "size": {
+                "width": 300,
+                "height": 233
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a31d6fba30d40950a2071b98990750fb": {
+            "format": "jpeg",
+            "id": "a31d6fba30d40950a2071b98990750fb",
+            "name": "OIP-2Sv3e0Lfc_29imA3Zye0qwHaE_.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2Sv3e0Lfc_29imA3Zye0qwHaE_.jpeg",
+            "size": {
+                "width": 300,
+                "height": 202
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1ad41859c23c496ac9e70765fa104079": {
+            "format": "jpeg",
+            "id": "1ad41859c23c496ac9e70765fa104079",
+            "name": "OIP-2T2Diusj24nm1vBoKmHVhgHaHn.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2T2Diusj24nm1vBoKmHVhgHaHn.jpeg",
+            "size": {
+                "width": 292,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "de610a17b923d402ce5d8224764da7cd": {
+            "format": "jpeg",
+            "id": "de610a17b923d402ce5d8224764da7cd",
+            "name": "OIP-2U-rJLQ7buJi7sfnjNZl7QHaFj.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2U-rJLQ7buJi7sfnjNZl7QHaFj.jpeg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "10d58c5e2126b375f4398e17ea37079d": {
+            "format": "jpeg",
+            "id": "10d58c5e2126b375f4398e17ea37079d",
+            "name": "OIP-2Xtx-sLEKhEmdmHjteE55QAAAA.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2Xtx-sLEKhEmdmHjteE55QAAAA.jpeg",
+            "size": {
+                "width": 245,
+                "height": 254
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ad23166c5a9685d53d245b87f548091f": {
+            "format": "jpeg",
+            "id": "ad23166c5a9685d53d245b87f548091f",
+            "name": "OIP-2c7ROqFRnvlwkCz6yuv6XAHaFj.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2c7ROqFRnvlwkCz6yuv6XAHaFj.jpeg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "788189aef475e23d2d402932fd460bd1": {
+            "format": "jpeg",
+            "id": "788189aef475e23d2d402932fd460bd1",
+            "name": "OIP-2cqlUfhKMre4d3anNXGJ3wHaEK.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2cqlUfhKMre4d3anNXGJ3wHaEK.jpeg",
+            "size": {
+                "width": 300,
+                "height": 169
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0f517c7b1f6d63a9158b2618984c0162": {
+            "format": "jpeg",
+            "id": "0f517c7b1f6d63a9158b2618984c0162",
+            "name": "OIP-2gpfEOEIetBWtosIFyXYTwHaGa.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2gpfEOEIetBWtosIFyXYTwHaGa.jpeg",
+            "size": {
+                "width": 300,
+                "height": 260
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1270ae720ddd518b7e989bcfd58f1aab": {
+            "format": "jpeg",
+            "id": "1270ae720ddd518b7e989bcfd58f1aab",
+            "name": "OIP-2h8auSr1bwht5ta592PmLQHaFP.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2h8auSr1bwht5ta592PmLQHaFP.jpeg",
+            "size": {
+                "width": 300,
+                "height": 213
+            },
+            "state": 2,
+            "type": 1
+        },
+        "10ba6bb32b321ba6fb902209e5767238": {
+            "format": "jpeg",
+            "id": "10ba6bb32b321ba6fb902209e5767238",
+            "name": "OIP-2j7XZHENYUjFQqWMmpGQmwHaFj.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2j7XZHENYUjFQqWMmpGQmwHaFj.jpeg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "34118672e9597ab3b54533dddd108480": {
+            "format": "jpeg",
+            "id": "34118672e9597ab3b54533dddd108480",
+            "name": "OIP-2jlbrU52vKF21v2ASCjHTgHaFj.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2jlbrU52vKF21v2ASCjHTgHaFj.jpeg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7286d5b97a8d42f8ddd7542cccfb1fc0": {
+            "format": "jpeg",
+            "id": "7286d5b97a8d42f8ddd7542cccfb1fc0",
+            "name": "OIP-2kEbd6RQhWShlc-iqedKtAHaFj.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2kEbd6RQhWShlc-iqedKtAHaFj.jpeg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6ee363ceab7a757ba90cdd29393219e1": {
+            "format": "jpeg",
+            "id": "6ee363ceab7a757ba90cdd29393219e1",
+            "name": "OIP-2lc7tpFI404OqX9xhR7-XwHaHY.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2lc7tpFI404OqX9xhR7-XwHaHY.jpeg",
+            "size": {
+                "width": 300,
+                "height": 299
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c5d9a9b4823b69d8add5cf53fe5c4ef9": {
+            "format": "jpeg",
+            "id": "c5d9a9b4823b69d8add5cf53fe5c4ef9",
+            "name": "OIP-2mmmW-CslXEcush0zDYrJQHaIL.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2mmmW-CslXEcush0zDYrJQHaIL.jpeg",
+            "size": {
+                "width": 272,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bbf42cc2ddf0bff1fe945e6d24fdd311": {
+            "format": "jpeg",
+            "id": "bbf42cc2ddf0bff1fe945e6d24fdd311",
+            "name": "OIP-2nbjhBG_cB-U-T2eSs94pwHaHa.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2nbjhBG_cB-U-T2eSs94pwHaHa.jpeg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dfb9e7feec3a49d4dcf5cc4590c30250": {
+            "format": "jpeg",
+            "id": "dfb9e7feec3a49d4dcf5cc4590c30250",
+            "name": "OIP-2o1JeTlIo4uVws6EyM25VwHaFj.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2o1JeTlIo4uVws6EyM25VwHaFj.jpeg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "74e748306a7ad541ca6854bd26006f2e": {
+            "format": "jpeg",
+            "id": "74e748306a7ad541ca6854bd26006f2e",
+            "name": "OIP-2qdsOtllzmb4EEvxqLLHrwHaKu.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2qdsOtllzmb4EEvxqLLHrwHaKu.jpeg",
+            "size": {
+                "width": 208,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ac2610d1a511d905c97bcce5d60e6bb3": {
+            "format": "jpeg",
+            "id": "ac2610d1a511d905c97bcce5d60e6bb3",
+            "name": "OIP-2qfqwXTn_3NCnRQy0usrcgHaHY.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2qfqwXTn_3NCnRQy0usrcgHaHY.jpeg",
+            "size": {
+                "width": 300,
+                "height": 299
+            },
+            "state": 2,
+            "type": 1
+        },
+        "121b1fa5614f9419e4e514748b3c4191": {
+            "format": "jpeg",
+            "id": "121b1fa5614f9419e4e514748b3c4191",
+            "name": "OIP-2vJVf6lOOavv8vWXiqA8qQHaGp.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2vJVf6lOOavv8vWXiqA8qQHaGp.jpeg",
+            "size": {
+                "width": 300,
+                "height": 269
+            },
+            "state": 2,
+            "type": 1
+        },
+        "989359c60d5cc912659a8b2a4a723b3a": {
+            "format": "jpeg",
+            "id": "989359c60d5cc912659a8b2a4a723b3a",
+            "name": "OIP-2wAhEoChHIuVqo6PsPGi3wHaFb.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2wAhEoChHIuVqo6PsPGi3wHaFb.jpeg",
+            "size": {
+                "width": 300,
+                "height": 220
+            },
+            "state": 2,
+            "type": 1
+        },
+        "36e8a64ac996e2d2dc57e3b4d51f63a6": {
+            "format": "jpeg",
+            "id": "36e8a64ac996e2d2dc57e3b4d51f63a6",
+            "name": "OIP-2wnVq-Ixoj_sN-LedIOpowHaIX.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2wnVq-Ixoj_sN-LedIOpowHaIX.jpeg",
+            "size": {
+                "width": 266,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "136ae73a6a94bb1cebe45223d63e0b83": {
+            "format": "jpeg",
+            "id": "136ae73a6a94bb1cebe45223d63e0b83",
+            "name": "OIP-2x1a0T4CZ_vJLx0wkFSNIgHaEj.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2x1a0T4CZ_vJLx0wkFSNIgHaEj.jpeg",
+            "size": {
+                "width": 300,
+                "height": 185
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9db61366ea8287e94cdb4264e56b71d6": {
+            "format": "jpeg",
+            "id": "9db61366ea8287e94cdb4264e56b71d6",
+            "name": "OIP-2ytHpJPr6hU1kuRCHZ1IZwHaHa.jpeg",
+            "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2ytHpJPr6hU1kuRCHZ1IZwHaHa.jpeg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

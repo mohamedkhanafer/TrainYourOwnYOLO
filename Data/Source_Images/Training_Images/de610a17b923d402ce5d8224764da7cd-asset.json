@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "de610a17b923d402ce5d8224764da7cd",
+        "name": "OIP-2U-rJLQ7buJi7sfnjNZl7QHaFj.jpeg",
+        "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-2U-rJLQ7buJi7sfnjNZl7QHaFj.jpeg",
+        "size": {
+            "width": 300,
+            "height": 225
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "vclD71a8Q",
+            "type": "RECTANGLE",
+            "tags": [
+                "chicken"
+            ],
+            "boundingBox": {
+                "height": 132.5636557482798,
+                "width": 118.91606604991395,
+                "left": 54.23502043889845,
+                "top": 60.650578770068805
+            },
+            "points": [
+                {
+                    "x": 54.23502043889845,
+                    "y": 60.650578770068805
+                },
+                {
+                    "x": 173.1510864888124,
+                    "y": 60.650578770068805
+                },
+                {
+                    "x": 173.1510864888124,
+                    "y": 193.2142345183486
+                },
+                {
+                    "x": 54.23502043889845,
+                    "y": 193.2142345183486
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
