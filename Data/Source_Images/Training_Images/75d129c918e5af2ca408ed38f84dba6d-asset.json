@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "75d129c918e5af2ca408ed38f84dba6d",
+        "name": "OIP-rXMOt-TMJ_80bYw08uhcxgHaF6.jpeg",
+        "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-rXMOt-TMJ_80bYw08uhcxgHaF6.jpeg",
+        "size": {
+            "width": 300,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "50ekd-sGB",
+            "type": "RECTANGLE",
+            "tags": [
+                "elephant"
+            ],
+            "boundingBox": {
+                "height": 222.31185121107268,
+                "width": 157.6993484778598,
+                "left": 69.98169395756459,
+                "top": 12.224264705882353
+            },
+            "points": [
+                {
+                    "x": 69.98169395756459,
+                    "y": 12.224264705882353
+                },
+                {
+                    "x": 227.6810424354244,
+                    "y": 12.224264705882353
+                },
+                {
+                    "x": 227.6810424354244,
+                    "y": 234.53611591695503
+                },
+                {
+                    "x": 69.98169395756459,
+                    "y": 234.53611591695503
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

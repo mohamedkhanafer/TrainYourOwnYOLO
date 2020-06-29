@@ -133,7 +133,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--epochs",
         type=float,
-        default=11,
+        default=51,
         help="Number of epochs for training last layers and number of epochs for fine-tuning layers. Default is 51.",
     )
 

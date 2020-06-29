@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "fb3e74e9495fedc9a3aa1edf1656e6c3",
+        "name": "ea37b40f2afd043ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg",
+        "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/ea37b40f2afd043ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg",
+        "size": {
+            "width": 640,
+            "height": 426
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "sRU_jY__p",
+            "type": "RECTANGLE",
+            "tags": [
+                "sheep"
+            ],
+            "boundingBox": {
+                "height": 417.06780861801246,
+                "width": 468.1534325889165,
+                "left": 0,
+                "top": 8.396797360248447
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 8.396797360248447
+                },
+                {
+                    "x": 468.1534325889165,
+                    "y": 8.396797360248447
+                },
+                {
+                    "x": 468.1534325889165,
+                    "y": 425.46460597826086
+                },
+                {
+                    "x": 0,
+                    "y": 425.46460597826086
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
