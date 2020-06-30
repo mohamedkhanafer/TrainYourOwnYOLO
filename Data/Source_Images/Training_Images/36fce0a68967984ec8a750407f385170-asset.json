@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "36fce0a68967984ec8a750407f385170",
+        "name": "e3222.jpg",
+        "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/e3222.jpg",
+        "size": {
+            "width": 613,
+            "height": 347
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "UzwyI8vQf",
+            "type": "RECTANGLE",
+            "tags": [
+                "elephant"
+            ],
+            "boundingBox": {
+                "height": 150.58187705592104,
+                "width": 202.1229967948718,
+                "left": 291.2356060018611,
+                "top": 139.41709498355263
+            },
+            "points": [
+                {
+                    "x": 291.2356060018611,
+                    "y": 139.41709498355263
+                },
+                {
+                    "x": 493.35860279673284,
+                    "y": 139.41709498355263
+                },
+                {
+                    "x": 493.35860279673284,
+                    "y": 289.9989720394737
+                },
+                {
+                    "x": 291.2356060018611,
+                    "y": 289.9989720394737
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,3 +1,2 @@
-horse
 elephant
 sheep
