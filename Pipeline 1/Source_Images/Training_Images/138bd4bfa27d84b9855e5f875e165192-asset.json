@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "138bd4bfa27d84b9855e5f875e165192",
+        "name": "OIP-Tngc_TF61e9dmgpVbxtutgHaE7.jpeg",
+        "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-Tngc_TF61e9dmgpVbxtutgHaE7.jpeg",
+        "size": {
+            "width": 300,
+            "height": 200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "spaDXs3bo",
+            "type": "RECTANGLE",
+            "tags": [
+                "elephant"
+            ],
+            "boundingBox": {
+                "height": 151.79609956575683,
+                "width": 112.91291873449131,
+                "left": 33.24189671215881,
+                "top": 23.207777605459057
+            },
+            "points": [
+                {
+                    "x": 33.24189671215881,
+                    "y": 23.207777605459057
+                },
+                {
+                    "x": 146.15481544665013,
+                    "y": 23.207777605459057
+                },
+                {
+                    "x": 146.15481544665013,
+                    "y": 175.0038771712159
+                },
+                {
+                    "x": 33.24189671215881,
+                    "y": 175.0038771712159
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

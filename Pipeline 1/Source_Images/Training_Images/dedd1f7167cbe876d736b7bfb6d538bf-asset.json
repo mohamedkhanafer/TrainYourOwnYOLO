@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "dedd1f7167cbe876d736b7bfb6d538bf",
+        "name": "OIP-KHiwa3vIGif_iB58KbqoIAHaHj.jpeg",
+        "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-KHiwa3vIGif_iB58KbqoIAHaHj.jpeg",
+        "size": {
+            "width": 295,
+            "height": 300
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "VNgTwqB3E",
+            "type": "RECTANGLE",
+            "tags": [
+                "horse"
+            ],
+            "boundingBox": {
+                "height": 252.3288819204152,
+                "width": 256.59979942116064,
+                "left": 16.339504872508794,
+                "top": 36.63224480968858
+            },
+            "points": [
+                {
+                    "x": 16.339504872508794,
+                    "y": 36.63224480968858
+                },
+                {
+                    "x": 272.9393042936694,
+                    "y": 36.63224480968858
+                },
+                {
+                    "x": 272.9393042936694,
+                    "y": 288.9611267301038
+                },
+                {
+                    "x": 16.339504872508794,
+                    "y": 288.9611267301038
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

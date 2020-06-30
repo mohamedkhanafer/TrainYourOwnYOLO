@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "421d6b61d20434eeefa02d0d8dadae9e",
+        "name": "OIP-iaEuiHJkz-Athmie-awrlAHaD8.jpeg",
+        "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/OIP-iaEuiHJkz-Athmie-awrlAHaD8.jpeg",
+        "size": {
+            "width": 300,
+            "height": 160
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "fgw2Kwvkt",
+            "type": "RECTANGLE",
+            "tags": [
+                "horse"
+            ],
+            "boundingBox": {
+                "height": 158.43798449612402,
+                "width": 183.008297146402,
+                "left": 45.18164547146402,
+                "top": 0.3381782945736434
+            },
+            "points": [
+                {
+                    "x": 45.18164547146402,
+                    "y": 0.3381782945736434
+                },
+                {
+                    "x": 228.18994261786602,
+                    "y": 0.3381782945736434
+                },
+                {
+                    "x": 228.18994261786602,
+                    "y": 158.77616279069767
+                },
+                {
+                    "x": 45.18164547146402,
+                    "y": 158.77616279069767
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

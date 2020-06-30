@@ -1,0 +1,679 @@
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-I2Y71RiseaXSv3nfL_J2mwHaJh.jpeg 49,11,234,297,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-I40cvN1aNywPP-6hk143BwDhEs.jpeg 36,27,191,286,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-I6f2y3ZypTx7WsCuEYJmMwHaKJ.jpeg 0,7,218,292,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-IC30zNopNor-WnbrDJsqwgHaGO.jpeg 12,30,243,238,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-I1Z00F3wWoUQIHhg3g9GwwHaF0.jpeg 7,8,292,226,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-ICakrbgTrQOiKX0O_gkIWQHaEG.jpeg 111,37,203,166,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-IDFG8dCue_Z_HXOmzvj55gHaE8.jpeg 28,17,277,199,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-IE49Vn0qNfWQncEZqcoT2AAAAA.jpeg 41,22,204,254,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-IEZBdQCigCJqjV77Ci4DTwHaF7.jpeg 13,23,284,221,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-IFddpP4Q5BuMMCEvg0TdngHaLF.jpeg 58,9,153,276,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-IHYJQyLMKHaHQOGLjof3JwHaGw.jpeg 98,84,172,232,0 39,84,93,228,0 187,96,240,195,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-IFhIjps2NOrExN2LQHKEvgHaGQ.jpeg 10,26,267,236,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-IJPYaNtKFIxa5HJj6Tso3AHaFQ.jpeg 39,4,266,200,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-IJ_Z0NEhVbomT9fJkMpWNAHaE8.jpeg 110,16,235,188,0 56,28,109,122,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-IJc-tspAUyF6SdeqoigzjwHaE_.jpeg 12,10,240,189,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-ILm2BmfW4p5McIZjqwe46QHaFj.jpeg 34,5,175,166,0 152,146,225,196,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-INh2jqtSY5K0GE3Ox_poMQHaJ4.jpeg 37,109,158,273,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-IOs3PdPYAyv_atsshG_6kAHaJQ.jpeg 50,11,192,270,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-IRWyeyJTfpdP_NvKjgLCNAHaLH.jpeg 1,12,165,292,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-IPXn31c4AxVv8OghkWGgggHaFg.jpeg 48,53,141,190,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-IUiK9N8M7_kqVf1wa7tFtQHaFS.jpeg 30,16,269,201,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-IW3Fng1-1wUODwh5NshAlQHaEK.jpeg 63,27,115,110,0 204,19,244,122,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-ISQw6bTdngt8fzwY0g_n5QHaLY.jpeg 16,58,179,258,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-IX1ufa_31JIVYg-6VOX-_wHaFG.jpeg 129,103,212,190,0 68,94,149,188,0 214,119,260,190,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-IRX10K2iB0W0Vo1w9R95ZgHaGS.jpeg 40,77,291,230,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-IY6yfNSNCZqey3_6qxUYfQHaG2.jpeg 82,104,229,243,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-IfKrpAvEK1EVR9A49BX3IwHaFj.jpeg 71,36,286,179,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-IYaKKg7IJUZYtMbiEO8dRAHaKl.jpeg 53,3,179,297,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-IjQKY3BhfycCgvEW6m-6mgHaJj.jpeg 35,19,178,258,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Ie0ZTgrI_WPcV32byUsQWAHaFj.jpeg 63,82,230,177,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Il01X1P2aW2iI9cAPKGViQHaFp.jpeg 40,19,260,214,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-ImqzQ7XONghviAnIFia_gwHaGV.jpeg 68,116,209,242,0 33,41,261,228,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-InRiFli9Nj2qT6KtrxxbgAAAAA.jpeg 32,21,265,207,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-IporGpf4wHPstZG-eLB_QAHaEK.jpeg 52,26,207,143,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-IrnbHsAumY4YrK5b4VGa8wAAAA.jpeg 59,28,216,157,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Iu7lHouVLaBwtPHsxlXHOQHaE8.jpeg 51,29,235,186,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Irtv8OWIU3Lz6iYfyG59rQHaEK.jpeg 88,41,199,124,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-J-KA2--xyhia0Gd5L__ZDAHaFj.jpeg 129,66,286,198,0 1,80,192,207,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-J-tZ5QzXqUqLey-2xPvI6AHaE7.jpeg 0,13,120,170,0 76,21,199,167,0 177,5,233,142,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-IwSesTBv4OlYawiEZBmfxAHaFD.jpeg 70,41,242,166,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-J-wlYoPbsMFtgQVe8WU1swHaF8.jpeg 35,25,260,228,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-J6GqQolBUVVmcEB2iuWz_wHaEv.jpeg 76,42,189,156,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-J3D1Q6AZRM56-LQfC3HMtgHaFj.jpeg 39,66,105,140,0 144,63,244,163,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-J3Sciej_xGyKwpz9O0lRhgAAAA.jpeg 21,43,203,166,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-J6YzZ7Gq2RTWTBkx5lBJlAHaFj.jpeg 0,30,260,185,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-J74k9sRQfvsrqnJnb2C7YwHaE7.jpeg 88,9,298,195,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JBsjJ1pKfh1w1A2QmvuCkAHaF7.jpeg 48,31,238,189,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-J786pqG6bAywUiff8ZDQ2gHaJ5.jpeg 25,63,224,295,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JBf_RWlWtlm48PV9bq71vgHaE8.jpeg 94,39,269,145,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-J8TWQsKj8DOSqPsRnC75OQHaFj.jpeg 150,70,275,199,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JD3ovET0A3zJeeO5txcevQHaGC.jpeg 11,0,277,226,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JD_pGgOA5alg9igX9loBEAHaF7.jpeg 39,12,277,219,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JEIGg0ha5i1S5avwp3pRpQHaHw.jpeg 6,6,264,280,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JExfGlOxic6rZLDdnoBOCgHaEK.jpeg 84,15,298,168,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JF-9xX7D3uaJ1PF8l1E5jQHaE7.jpeg 81,17,222,175,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JFZaad4LzvXLIcom6-PipAHaJ4.jpeg 45,22,203,247,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JFw9eN7T7GtYmFwzWLPliAHaE6.jpeg 107,19,192,78,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JJlqRGP65KL-WW2M4kOdvQHaFj.jpeg 51,50,231,212,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JHjm7qi-NPKbm6Y6euuy-QHaFO.jpeg 18,2,283,195,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JJC2DRWy8YiSBsK7JGDYvAHaGT.jpeg 21,20,293,231,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JM7w20e9M-ON1WCrxDqIQgHaFj.jpeg 27,61,282,222,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JL5EpFvJn-HkVbRv2bFyKQHaEK.jpeg 37,18,261,156,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JeEgjgI8b7yvQVQaq2S66wHaDv.jpeg 66,28,232,135,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JN3ioyS8LMqcgwUTLj51uwHaFO.jpeg 51,32,244,172,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JPGR8NmkRwSjUhlqJhptIQHaFe.jpeg 45,71,225,198,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JS5Fc8AakdRI2SUCnCqMFQHaGk.jpeg 31,31,276,245,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JWNuh4kp7wzmF8iEtZgG1QHaGC.jpeg 19,16,274,227,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JUyzRX-gVFQe3b8PqNy5kgHaGb.jpeg 50,2,275,251,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JT4hA92qZET7RL81pltpJgHaG9.jpeg 22,123,163,268,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JQ8bMA7HBLqJ7DC9mVE6egHaF7.jpeg 34,82,116,197,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JWUV6Zu7rNgxUUPXDNw80gHaE9.jpeg 62,42,215,180,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Jhh1Nd-wUOqxMbE4a6ctiwHaJ4.jpeg 61,67,204,249,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JhaZE9Va_9kVQxcykJ7hTAHaJC.jpeg 102,106,169,221,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JjgE7U57en_SmeHTzpfIogHaGf.jpeg 18,14,259,237,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JfNXxNHEW780ABg9Ta_mkAHaDl.jpeg 123,5,283,138,0 7,1,101,113,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Jjha5YqUf39dcflRFyPHawHaDf.jpeg 22,0,300,142,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JkHnWyJH-evdc88q-S8l3gHaJQ.jpeg 0,21,178,299,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JkFk7OKYXOERc2Kd9RANvQHaFj.jpeg 66,132,201,224,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JkSlHXiAVvHz9Pe2BlgwxwAAAA.jpeg 7,7,287,248,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JkdabRpbwRFMRhNsSzUIUwHaE6.jpeg 65,21,222,174,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JlX1ZBszayKx6qTZKK3CXwHaEj.jpeg 0,50,190,185,0 250,71,282,135,0 186,68,213,99,0 212,64,235,102,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JmH7D39l4OAU9AtsQ_ecHQHaE7.jpeg 77,40,224,174,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Js-vvVtuM2r3V_OjLKMJkwHaGj.jpeg 20,13,278,235,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Junvfw6M-f5CciCfImQHRgAAAA.jpeg 10,42,241,252,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JuuJORB-FiVLOLDOI4jbJwHaKh.jpeg 61,0,198,300,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-JwVm9pg_FcaVPCHJDBD24gHaGB.jpeg 46,9,280,224,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Jwc6ZtGBiIwgh-vs4vDB2QHaE-.jpeg 41,42,300,202,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Jxru_v17_KZlBnx-sVW-KQHaE7.jpeg 52,79,159,183,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-K2aFpdN2ibAQvQYj5OAViAHaEJ.jpeg 35,2,279,162,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-K6Z0bhFddwM2LUnbhiYbzgHaEu.jpeg 0,16,237,192,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-K6hwEVncr_EXCyx8gqfADAHaFj.jpeg 19,3,100,217,0 100,16,186,225,0 188,3,294,214,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-K71X2XaN36FJAJVRs9x8nwHaFy.jpeg 39,11,261,228,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-K8QgBSuaAkfMGBB_1C84uQAAAA.jpeg 7,11,57,56,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-K84yvq2PnJK9B93Sv4VFzwHaGT.jpeg 3,6,296,252,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-K8Zrp1Ty2wsaVdicq3HdhAHaEK.jpeg 115,10,223,130,0 65,29,129,127,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-KLVM_DcLBTFpB8FWSUc2iQHaEj.jpeg 92,74,170,160,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-KDowoeZe2O5yWlbL5cmS5QHaFj.jpeg 51,1,298,225,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-KDQPuKT3e1jFI6LD614dHAHaGv.jpeg 26,60,292,251,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-KKEc-ywd3zRtOZ7rQ3RR-AHaFR.jpeg 154,28,238,195,0 82,49,158,153,0 3,51,45,173,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-KHiwa3vIGif_iB58KbqoIAHaHj.jpeg 16,37,273,289,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-KLVc7WfY2lyJPjJdyn_ItgHaFv.jpeg 69,6,283,225,0 14,75,75,161,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-KM_LZQmccdTiit5gVstYowHaGe.jpeg 40,38,273,234,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-KQRu5A0s5TtHfxuzVt7IhgHaGk.jpeg 0,30,284,263,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-KPzL7Wjn07iKHJTKOwk6pAHaE_.jpeg 17,36,269,198,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-KOL6lSWC_eHCNnMmym97LgHaE9.jpeg 103,58,300,201,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-K_ObA7MNclgdnx5dTbQsJQHaHa.jpeg 45,88,228,265,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-KbOGMyfxjp9Bbv5hu3IQtwHaHa.jpeg 46,68,300,300,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-KbrCvsW7KqWwqV1tZVmdEAHaGl.jpeg 0,33,256,261,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-KbO1kbJeIJuGQjJw-HEZMQHaHa.jpeg 40,24,248,287,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-KbuTSATRJ6DysKynPXL4zQHaGD.jpeg 19,15,275,237,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Kbwq1c4VCIH97yfHbXOxfQHaFP.jpeg 74,19,283,196,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-KgZQxiaUZloRwXO6yvnChgHaKF.jpeg 53,93,163,230,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-KeTnTRaxt4VR2Bbu7-tGuQHaE8.jpeg 2,0,251,199,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Kgo2HcqC6HYh1FWI7I2byQHaGu.jpeg 38,47,279,256,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Kcl4NCfOAbm3KgV1_mIeyQHaF7.jpeg 21,10,283,234,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-KiKSyCTx5F3rRou3CJt6jgHaJo.jpeg 9,48,203,278,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-KgwxiD45b_uxH1E5la6xeQHaGN.jpeg 117,69,291,216,0 255,219,289,238,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-KjqORg1TkQ-WH1jPMqUraQHaEK.jpeg 80,25,152,98,0 30,54,84,113,0 111,15,295,159,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-KjQU4TGWc75NfFb9l59hmQHaF7.jpeg 0,42,242,240,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Kjrov0O_CqRgA-7qU9-NlAHaGh.jpeg 9,17,280,260,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Kk3aUvgsAsDgdUnrN0tsZQAAAA.jpeg 88,48,172,230,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Kkd4YNrvpU2X7oZoSTrmsgHaE8.jpeg 117,137,141,155,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Knve0JzUtZ1zfy-GL63fpQHaHQ.jpeg 22,17,276,282,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-KqeKmYfnRwKd89nLg8_zRAHaHb.jpeg 22,9,285,297,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-KqTIb7vjmTbspBQUAhNpwgHaGK.jpeg 61,5,300,246,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Krk2Jkc6teRDDOVStfAQCQHaD4.jpeg 141,50,259,157,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-KqfmLxg7a3qUMXA8OIKiJQHaE7.jpeg 3,41,265,182,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-KsKyqCMf5XWNz2PzgZoSGgHaFj.jpeg 18,5,281,225,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-PRNCpIh9yIXiygBaQxCyEQHaH4.jpeg 0,70,202,294,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Py6rPwuWKGAnWkEB7qkhuAHaFi.jpeg 92,47,300,156,1 197,142,291,183,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Q7-p2cMuSZvh663FNymJAAHaE6.jpeg 67,27,174,187,1 0,31,41,174,1 184,104,244,186,1 159,43,232,184,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Q_ZQ35JUqrlJUO-Hzj-r3QHaHk.jpeg 15,33,276,272,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Q0bCN_FQnUukU8gOvd8c5QHaEM.jpeg 45,54,97,140,1 100,54,172,130,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Qbk0crNhCk3wIv3JsCyUlQHaFj.jpeg 146,13,247,138,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-R36Nzckfupe6VZgof9o98wHaE1.jpeg 51,13,273,196,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-R5LdhT21tH0sFZva8qLIZAHaFj.jpeg 4,14,230,220,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-R7_ZqC8GCOEQgfatm7wuRAHaE7.jpeg 58,102,112,188,1 3,17,93,187,1 89,28,189,167,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-RDQspxY5tYVlhQ3IAkUrdAHaE7.jpeg 171,67,246,118,1 137,81,180,118,1 111,74,137,112,1 88,71,110,112,1 62,65,112,99,1 41,86,69,108,1 22,85,49,104,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-RFjZZMfz2qU5qqa0cxPjlwHaFj.jpeg 0,15,190,195,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-R5uhEfst63c-2eZysseAPQHaFR.jpeg 26,20,280,208,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-RHf-XMG6mNxdpZmXas8eMQHaE8.jpeg 0,53,155,198,1 134,78,298,199,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-RH3LwuIcqYaJ3bK8LZaBowHaD8.jpeg 37,58,121,128,1 133,63,201,124,1 195,64,275,125,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-RPOK0n13syAO0-igJ2k4dQHaE8.jpeg 7,35,293,193,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-RIlTySqzZi7jT3JWto9VCgHaFi.jpeg 19,96,144,207,1 78,24,265,211,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-RPtIgpSt71rk0Uy3f1x09wHaE8.jpeg 164,90,264,173,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-RTNZFo6Otn_xDWUsDmb4WAHaFu.jpeg 28,14,238,171,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-RdNc5eX3ATmTo5Ssb8YvvwHaGB.jpeg 35,69,208,239,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-RTjZvkvNBYjtIgfs8e71kgAAAA.jpeg 23,0,176,274,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-RholNudrX4AJEwhgnhW0cQHaKt.jpeg 0,19,178,292,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Rfj7SasAaF6o8En3hGtpfwHaF7.jpeg 144,43,254,193,1 18,95,126,195,1 61,136,139,183,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Rjm1a25yxTBCDsw0TPW35QHaF7.jpeg 81,9,228,227,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-RiqIQg_9zGvM9imtNIKtcwHaE8.jpeg 107,14,284,199,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-RkA-v0ZF3q_vE3mWT3Cb5wHaIg.jpeg 16,42,259,286,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-RlUfxkd43Vq1c70wJk8sjgHaIB.jpeg 14,8,255,286,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Rrk3do6Og6e97wTMamoYygHaGt.jpeg 14,25,300,249,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-RuQQcpKA72gpIMLot1a8MQHaEo.jpeg 80,51,103,64,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-RwotjqPaFoLDZuUOyOv5BgHaEM.jpeg 100,79,195,143,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-RyfNCrmhaTe4Hoo5pJCh7gHaFU.jpeg 7,7,295,213,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-S-SN4f6nyztk3mB9_aI4UwHaEK.jpeg 85,14,219,162,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-S4wCKgKGILuxCnxolsnx9QHaEL.jpeg 27,0,274,158,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-SEN64kLKHNpxi0xF-RYdqwHaEK.jpeg 138,64,288,154,1 19,69,127,153,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-SIRVmMvJ4hOcekKToTmlYwHaFj.jpeg 49,33,261,207,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-SBpqTsaBUCczsby8AD4ueQHaEK.jpeg 27,0,159,169,1 250,3,280,24,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-SKm4ucxH0qC22lEvg8Gq_gHaEo.jpeg 72,101,182,170,1 91,57,258,150,1 75,40,261,133,1 0,69,72,152,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-SP0k6tc-baY4apiHtmkdygHaE8.jpeg 32,1,300,200,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-SPLwQ5mOdhj4MSQJJI04XQHaIq.jpeg 66,162,216,273,1 127,115,188,161,1 144,91,235,144,1 24,81,115,132,1 3,25,22,52,1 32,18,63,43,1 48,22,74,43,1 88,46,105,60,1 122,34,137,62,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-SQGHMqrYk1IX4PGH3aTbxAHaFj.jpeg 89,4,233,212,1 73,148,136,225,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-SPrEJS7cpLAi09zk4juyYgHaE6.jpeg 87,42,236,179,1 229,85,297,182,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-SPqo2n3-aUZYuzj3TrdPUQHaFW.jpeg 121,32,224,195,1 102,84,139,156,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-SVFooTlKh9HMBKMEU-sRCAHaEK.jpeg 32,12,238,169,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-SVLeL9oAjRU1y-Ux10RhwQHaFj.jpeg 1,36,264,212,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-SY4wnHw3SNLEzhUc5os7bwHaE_.jpeg 29,25,268,167,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-S_DoeCMqrPonB8Zibds2aAHaEN.jpeg 221,67,300,143,1 211,48,299,137,1 38,65,165,149,1 160,110,190,139,1 76,52,210,136,1 3,57,84,98,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-SqD6BXrR_A4Q4Z7Xj353DQHaE8.jpeg 3,7,230,199,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Sq5F0wQIo9HJfxYpabuL_wHaFj.jpeg 156,92,200,138,1 131,88,176,135,1 183,95,221,130,1 228,92,247,121,1 269,96,283,119,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-SrAvUgHlqQDdW3dPW12wRQHaEk.jpeg 90,8,209,168,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-StkfiYSN1omfmeJ3kLyvOgHaFS.jpeg 60,119,145,189,1 50,4,291,189,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-SryMN6ARcaOtOB3HWJIyzQHaFj.jpeg 161,89,231,192,1 79,27,182,191,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-SrbEBzRGqYXhOo1FYeoyRQHaFr.jpeg 46,17,293,203,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-StmJ8r9yCzlrk_1piXTBYAHaJ4.jpeg 40,37,224,300,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-SwxeT985A5TaqlIU9vPuDwHaEK.jpeg 119,41,195,163,1 197,83,288,167,1 182,65,241,156,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-TEWN5dW5YxKrJ65i38J-PQHaEo.jpeg 125,50,252,187,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-TD-ZILrdKezYaUodeZsHcwHaFc.jpeg 29,46,230,189,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-TMDDDptNJbFk2u6tkNO1FQHaE6.jpeg 32,56,297,152,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-T5chVKvdz8npANXDEuNwwAHaE8.jpeg 42,25,252,182,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-TOBWWbk3SeneV972M8EoDwHaEo.jpeg 57,20,204,179,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-TjfwlvE8eu8Y1oq4CAYbhwHaF4.jpeg 24,15,198,230,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-TkHwzq7FjHPhdJ1h6cCr2AHaF7.jpeg 11,46,273,210,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-TbUJBkDMSlEm97eAy04njgHaEt.jpeg 41,41,191,191,1 167,57,297,141,1 174,13,300,112,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-TliZ4BKLyNuysW-uUIafiwHaEJ.jpeg 4,17,300,167,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Tngc_TF61e9dmgpVbxtutgHaE7.jpeg 33,23,146,175,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-TnUJhwGfV8IVqGdv3j9RvwHaE7.jpeg 55,20,264,181,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-VIDtUdrke8J0x7KMrM6iaAHaFj.jpeg 59,65,286,162,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-VPQpw2iKKk1iwFhqswUJuAHaE8.jpeg 8,75,75,155,1 51,44,196,167,1 35,33,154,77,1 134,12,296,132,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-VJC0gty4E9m70A28BjuGJwHaEq.jpeg 73,131,157,178,1 47,0,223,136,1 230,0,299,96,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-VU2ZJIdmTL0-PO6-uDTp3gHaJM.jpeg 33,34,234,279,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-VX9NwpHbe6Pzuc2SAvuOBAHaE6.jpeg 5,24,200,196,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Vg1htIABRj1AZ3tU3i857AHaFQ.jpeg 34,9,239,204,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-ViatpK3wPwmHEX4vCFBZVAHaE8.jpeg 40,0,277,174,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-VtLBDVc5P3IcXYPp9YLHwQHaE8.jpeg 66,30,282,194,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-W-dMOBlE3qr2-cPoquMYdwAAAA.jpeg 16,0,228,163,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-WAK1Yq3I6c-uQ3qQ-2Z_sQHaE8.jpeg 0,56,229,200,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-W3F9TmH4OzqmtGZJaqF4uQHaEc.jpeg 105,69,149,119,1 51,11,258,174,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-W2Z4ZYnWufyVdbf8k46ZBQHaFZ.jpeg 51,4,294,219,1 7,26,133,208,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-W6oaJTyYl86Ny9MacLqisgHaHa.jpeg 30,5,225,300,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-WIoOjbfrXeh9rQNdn6p7dgHaHa.jpeg 57,31,279,267,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-WBn5mHLjmeJjX7xAdPPflAHaEL.jpeg 20,19,294,155,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-WGmA1bvXDd4-nTMfT2UOVgHaE9.jpeg 75,8,229,174,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-WJxXXybWuStdW83awVhMoAHaFj.jpeg 109,36,283,213,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-WTkndM8a1EED3lpiFJKuHwHaE-.jpeg 57,15,292,197,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-WVlkn8rm7Q--hAnIRgWO8QHaE8.jpeg 64,1,300,200,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-WeCCNxjbnF0WvF0FxWZ9uAHaEK.jpeg 97,0,260,131,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-WWKX1rtCYVpSiVbSBxj79QHaFc.jpeg 164,5,292,190,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-WeiWP8gq6YEkYl58sXxZogHaEj.jpeg 63,9,298,181,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-WgDGXWs8Q792l9klYY0OqgHaE8.jpeg 24,7,264,200,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-WjFH_Mt10nk2TI1MoBriHAHaFc.jpeg 8,0,259,188,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-WmeU-lxMtHnY6oiM_4FMrQHaIy.jpeg 23,10,224,292,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-WvKqBqznWavK7uosNE7GOQHaFj.jpeg 16,61,267,166,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-X-a3t3aeF084JmlQz1D5tgHaHT.jpeg 25,67,274,250,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-X-eAT-e5JI2r5FXFjBnVbwHaJD.jpeg 8,0,244,299,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-X6S-X5KAyxVrp_6B0hrMuQHaFj.jpeg 21,21,276,223,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-X9GqFpai3yaTvy-Y8rF03gHaE7.jpeg 28,1,276,198,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-XAi1ivkAAKgNerQsF1evzgHaE8.jpeg 34,2,300,193,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-X9NXaENPWEcdseDGW2JTowHaE5.jpeg 5,25,268,187,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-XM-9quCuvL5sGvykoN-DUwHaE8.jpeg 0,44,152,200,1 108,68,298,200,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-XNlejTOAaBCw3LIICLSj3QHaGU.jpeg 33,46,266,207,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-XOAle0y3IZCGAwyLjhzluwHaE6.jpeg 82,12,261,184,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-XPbkJjm2imK-ISbdDKWBfgHaEo.jpeg 196,48,291,124,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-XWGEslsdy_OCPIME7p_BKQHaH2.jpeg 18,22,263,283,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-X_I2std7YBCSf7neY2AVXQHaHa.jpeg 32,31,268,289,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Xa9PvNZZH3CXAty_NoZC5wHaE7.jpeg 132,5,295,197,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-XnhVmXAJTkcFK6M9W9HnegHaFE.jpeg 64,4,237,202,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-XmCK-mhQpPYoB_Lttz4jywHaFj.jpeg 58,3,285,225,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-XmayByRotK9TIA_AidMkrAHaE8.jpeg 121,17,250,187,1 3,19,141,196,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-XiCdsgFYiBIJQo_z2qiEkgHaEg.jpeg 85,1,300,171,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-XrHR6piFxinj80Nga0LNkAHaGC.jpeg 27,38,279,242,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-XueXlncGXz13f1t2MhQ2pQHaFj.jpeg 161,50,275,181,1 0,58,134,182,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-XwkSC1VAzv9T5D1iXCKu0AHaEo.jpeg 189,30,293,135,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Y6BQuvYoeS0tmqv4NnBLYgHaHk.jpeg 126,154,293,270,1 6,7,202,296,1 6,7,202,296,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Y2pVAQuRkOTpUaVOJzOdPwHaFj.jpeg 17,25,215,196,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Y9Lc3aBXRdO_I3lyNwIecQAAAA.jpeg 3,4,192,297,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-YCGPKLwC-fbOp2x18Fe80AHaLI.jpeg 9,23,196,232,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-YApir7af--L_6FQOC9tijQAAAA.jpeg 27,20,291,202,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-YA0uxaxtoKflISNLy4bqfQHaE9.jpeg 110,8,257,187,1 27,42,128,191,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-YHhNFMosfdT6P1QMpjXxRAHaFj.jpeg 221,69,300,187,1 170,56,237,178,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-YLAWtT7J2BluyhLcvxdk5AHaEK.jpeg 92,47,187,130,1 24,50,75,111,1 0,24,35,122,1 161,34,254,108,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-YSBJtsDgNOfzJfuk4UHDsAHaEK.jpeg 100,46,257,169,1 0,0,95,156,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-YXYCzbuMYSZXgxcdGwGI0wHaE1.jpeg 94,15,255,195,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Yio1IWV3YK1BJOiY2HLEwwHaE1.jpeg 8,32,192,196,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Ykv4UIvJtjedkWi9QPbfGgHaFj.jpeg 48,62,164,219,1 134,8,285,219,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-YoLyyzHee6BHTx01rbqSEQHaFh.jpeg 54,25,195,224,1 197,55,300,224,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-YnKLqp8AjcA2RfMYDNukAQHaE7.jpeg 130,103,217,191,1 9,3,210,191,1 188,0,299,198,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-YrkykgfBRezEr041yzYScQHaE-.jpeg 31,50,130,200,1 101,11,265,191,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Z9wGusnpjaWEUwcU_gcMHgHaEA.jpeg 67,30,258,111,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-ZOLNyUI9fOd-lnACXOdnWAHaFj.jpeg 168,57,274,181,1 0,58,145,189,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-ZPRJ85QAzQ7hC4vp7vzErwHaE8.jpeg 9,3,157,189,1 149,12,272,198,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-ZUZnitzqZNls7psG83OlywHaLI.jpeg 12,63,198,277,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-ZVPwvKY3N2tqg00m_z92rQHaE8.jpeg 94,16,265,182,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-ZR-NuMDLR_C-1CHKM7ST8wHaE6.jpeg 13,18,271,184,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-ZapRpPspWsg92JPyPw9mmgHaE7.jpeg 124,62,267,173,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-ZcyFicUrQxAEJwL7c4LdTwHaEI.jpeg 77,20,224,166,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-ZmVr7z14oXAlYojDFOAWUwHaEU.jpeg 24,18,289,172,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-ZjrjjZM8y9QuxjNDA-PiGQHaFA.jpeg 83,1,300,203,1 1,60,152,203,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-ZlsZOeXQTrzCVP73WfyTQgAAAA.jpeg 19,3,200,291,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-ZdUyIxcRqX2nAxxNWFgF2wHaKD.jpeg 43,39,196,264,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-Zw7kOwinhlE9mol5L4SJJQHaEo.jpeg 52,56,198,164,1 186,94,283,160,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-i4bOQRoQTXSL8Hiobdg_JgHaGD.jpeg 25,10,276,245,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-i4Vs2nh6bioytEt-03u4sgHaFj.jpeg 40,22,300,225,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-i44pyKh4mfVwNGBn9jqvngHaFw.jpeg 36,29,258,213,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-i3G9zvIO8q0OFqvQZ586NgHaEj.jpeg 25,35,245,171,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-i5q7xH4EBStd7KYb0gw2SgHaJo.jpeg 16,19,227,282,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-i8mGIkwIEFC6Oc8ZhJhS4gHaFj.jpeg 40,37,253,214,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-i8EsvLChGiuJwN64dpV8TAHaId.jpeg 22,9,256,264,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-iDhx-44xd1gtyN-jMCAgvQHaGQ.jpeg 4,15,300,254,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-iES5s6LtEvHhmdionMpm0wAAAA.jpeg 30,20,270,220,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-iFodq_iM7sGOmesEqV8-AAHaE8.jpeg 25,55,109,171,0 53,45,219,161,0 165,59,270,148,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-iG8AXzbtw8uvYIvmUq22iAHaEy.jpeg 21,41,261,185,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-iHbl7stAryPlEhetgvItfAHaLj.jpeg 19,123,193,300,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-iJLi4BMgUhg3CvqM5OwvCgHaHr.jpeg 17,34,270,287,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-iKxd8DWoLuHfR_5TgtOJoQHaFj.jpeg 18,13,293,212,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-iNiJSexpflieBf8uOCTYHwHaFj.jpeg 23,21,223,214,0 160,53,278,217,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-iO4ejeMMONUkPNFEr0nWIwHaEI.jpeg 143,2,248,159,0 91,39,146,125,0 67,47,94,111,0 239,4,295,130,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-iPREWrGnjvrUfnykHJYBPQHaE8.jpeg 54,4,246,200,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-iQiGZnyd3JUXv1BayPfscwHaFj.jpeg 30,17,276,217,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-iQoh3Qop-5pul7Qf-DljlwHaE8.jpeg 137,24,294,185,0 35,22,188,179,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-iRReGAm-_QRdpxurHv8EHgHaFP.jpeg 47,39,238,193,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-ihkWCLc7Z0G6N4BFbEQsnwHaFj.jpeg 143,125,228,189,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-iW2JUzdAjsew5tna4wuJGgHaFj.jpeg 90,36,227,195,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-iaEuiHJkz-Athmie-awrlAHaD8.jpeg 45,0,228,159,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-iUXoQwgh_hC4n5pScjuTCgHaGS.jpeg 0,6,270,255,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-imEgzeGprjGVfXtQP_8EEAHaEs.jpeg 50,11,289,168,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-ioY3wqKQB2TjqrCB20AeiAHaJ4.jpeg 10,3,194,300,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-irWuWeIWd3Hm3BWGd0OEsQHaGO.jpeg 1,3,287,252,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-ivQ_r4ats-fvJco3iGyYigHaE7.jpeg 0,3,157,179,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-iw62la8sr4888-V-S0J1vwHaFc.jpeg 0,55,221,220,0 198,15,292,204,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-ixTq7KmgjODccFQOu9H6ZAAAAA.jpeg 1,14,297,229,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-iyfTWYmICwO9-0raqeAlSgHaF7.jpeg 7,9,294,225,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-izGTtGE2Z8XH5Noh4jEjSwHaFw.jpeg 68,20,256,216,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-j-TBtfLxSOpy5QhM02PhjgAAAA.jpeg 58,7,250,291,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-iztAw_M9-bDbZbJQ56KSIAHaE8.jpeg 14,24,280,197,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-j4fXNF63jQ7-tGUGiwy7HwAAAA.jpeg 15,11,234,289,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jCu7nlv58_Tf7GZFbL4VSwHaLH.jpeg 30,116,149,300,0 7,49,200,271,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-j9lLR8WYg1mXjlf9PBck1QHaKE.jpeg 29,27,187,300,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jBCVQ820X5Ygag8XI9xJtQEsDw.jpeg 19,46,272,230,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-j6RrH5aHbY8xfHzq_3xzGQHaHa.jpeg 72,100,300,300,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jDQLYkmB1oKjOhh-o9fWIgHaE5.jpeg 80,12,285,190,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jNV0Wz30m2NBATmp9jiDVAHaFp.jpeg 47,10,284,218,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jLo1Fh1qgKvPf_GANe3cjwHaE7.jpeg 16,5,256,200,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jNyt13TwEmiZAQu1rzYq4QAAAA.jpeg 18,46,209,184,0 123,52,290,175,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jOLT1k5fp3u8Mj8SlF71_gHaEK.jpeg 59,19,265,166,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jQhj53xnooqdLWzRDqUz5QHaE8.jpeg 53,5,270,185,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jXOwsp9rK6jpGve4w0fo_AHaFY.jpeg 33,15,267,209,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jV-31cNPDAcDwYYPwVUSggAAAA.jpeg 70,74,176,209,0 10,8,217,188,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jVn2bl4o4UkKhSkA3_tiXAAAAA.jpeg 49,60,285,264,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jUi_eCe68PqqU6BjkRSujAHaHR.jpeg 90,89,265,295,0 26,1,300,295,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jXyhmhD3BZO42thFIBD8ZgHaLG.jpeg 92,79,201,265,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jbDA-eUDfIgGd-QRcAyGXwHaE8.jpeg 38,28,247,188,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jYyfJL5-pGI20j_11QfeYQHaF1.jpeg 29,20,268,221,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jacwXL0mrSEDtWbe2dV4AwAAAA.jpeg 12,23,244,158,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-j_cV8BfGlw6-GNxhTqEhLwHaE8.jpeg 42,59,206,194,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jclvWyRI6GnxcDm8XcLXIAHaFj.jpeg 11,7,272,217,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jdO7QaRkH8dUnVXGC3DtoQHaE_.jpeg 0,9,233,202,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jctSMR9ErAkJrK7ZmBE_bAHaE7.jpeg 71,55,258,193,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jkSSE271N6FKGewi4zpTzwHaF7.jpeg 16,5,286,232,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jnG7lrbJtgJxgS6ZLn1vaQHaG8.jpeg 18,2,280,280,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jp1qGe98jq2AfYZJICJHAAHaHq.jpeg 34,18,279,294,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jsyAwTF7wiwN3ucKAAlCPQHaFj.jpeg 9,26,281,184,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jql6NUjDk49146vdpPnGoAHaH4.jpeg 40,14,224,260,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jremeZ1GmuPI9mHUUnLz3gHaE9.jpeg 0,61,154,189,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jqjnI-BWj-9BkPeqZetiggAAAA.jpeg 2,3,60,54,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jt8Mrhz7zMkAYG6InihNdgHaFP.jpeg 27,28,264,176,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jvr7xrwsnYyzIfLzJ_OSJgHaF_.jpeg 7,15,293,243,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-jxLWRbEyPXwDG_FcV_S96AHaFj.jpeg 65,42,295,174,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-k-k1mKX2wssLxErEpKCr_wHaGU.jpeg 15,48,295,237,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-k35mM-lbjLZIzid37Ju1rgHaEK.jpeg 68,13,214,166,0 163,47,296,162,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-k4WmYdJrA_mQioa0msbGHgHaE6.jpeg 13,73,65,181,0 79,69,125,182,0 126,62,176,186,0 179,71,229,179,0 239,59,286,178,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-k5TFN3AeFqfr8UoDvCUmnwHaF7.jpeg 77,70,245,215,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-kCH3WKNI8dXEJFRZH2iVZQEcDb.jpeg 38,13,260,209,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-k8fBJWzNnV_pB9wefz_ZxAAAAA.jpeg 50,15,205,300,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-kFJ3jdzSc9O8nREQUcOzHwAAAA.jpeg 28,5,267,205,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-kGP3AktH2mCaf-I56zq1IQAAAA.jpeg 63,30,280,197,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-kGSfBPfkTg1YbV_GQcT44wHaFq.jpeg 5,40,293,220,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-kQ-da38l4tlwHUSpl0Qd6QHaFj.jpeg 6,26,243,211,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-kGVkMvmKb4b1K5MgSINpnAHaHa.jpeg 103,58,295,295,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-kSRjSZBHC5W2_Lq202N04AHaGi.jpeg 15,45,262,265,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-k_83greoExWT_5onC2Zt8AHaE8.jpeg 143,11,249,170,0 53,13,148,183,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-k_TmqWJdxlZZ_b6uTMWoPgHaGp.jpeg 10,6,212,255,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-ka3o8aHEBG41qtU7CaNpPAHaIU.jpeg 37,98,253,256,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-kb3BU6z_8W5PfYaCdzpO5AHaFi.jpeg 65,13,256,218,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-kfIJdcwHXMU5sAnpbFfqAQAAAA.jpeg 42,84,145,156,0 47,33,220,143,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-kfQ9K24NfIaCaeOpurTOtQHaFE.jpeg 20,17,257,200,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-kg1DPsy5xhoVr9upedzY7wHaEo.jpeg 32,7,279,188,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-kgWRifS_mVl-jYY-Mo18NAHaFb.jpeg 45,13,190,186,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-kka3MvynqE64RCubw_mvcAHaFF.jpeg 21,43,256,187,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-kmTjbr3G8ZzsQuAl6yTBaQHaLG.jpeg 37,32,185,285,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-kogvSi0IC6W2KUk7rTFqQAHaGS.jpeg 13,37,272,233,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-kq1s5ANPGlU8Il7l7EtyJQHaD4.jpeg 78,7,252,153,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-kn8iiVVluLQfsQ9O--Zl_gHaF0.jpeg 33,29,249,231,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-kmZPHqbKh93ipcj7mFLuPwHaFj.jpeg 67,22,300,225,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-krnc-ruGHxJOsK8kG7kqpQHaE8.jpeg 32,13,263,192,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-ksRtnNVuEzr5pt0azyWUtwHaFi.jpeg 53,8,261,215,0
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-q1zF4jYFxB5v-WAFUlU0EQHaEK.jpeg 133,24,231,169,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-qMChZis7gf_Npy7JW2-fzgHaEm.jpeg 3,13,298,184,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-qTwcqBDv0BLl_DNQamz99wHaDt.jpeg 67,69,200,150,1 43,0,295,149,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-qgumq9GHJPRM_Yxuuq7b-gHaE-.jpeg 26,56,177,173,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-r6Y24bJ20hSQIxUWGVUhCQHaFj.jpeg 17,37,108,197,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-qZ-VSLV-6TiPvsPUYyP-xQHaE6.jpeg 161,49,300,189,1 0,1,158,199,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-rIFDPc8myXNX7MXGRKwTJAHaG4.jpeg 27,6,296,267,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-rKyxOYelf2_DPVf8VLjEPwHaFj.jpeg 25,32,168,193,1 146,21,252,167,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-rO4QX0E8dhE2W1Cs0563QAHaF3.jpeg 4,2,297,227,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-rQHBnNEKU3_cXqotSows2gHaFj.jpeg 153,1,300,220,1 0,5,227,221,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-rUqqxpmOrFnX_k-im4QXcwHaEK.jpeg 60,63,181,156,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-rX7HZz1rZZpiSs3XgPvl7wHaEo.jpeg 42,13,207,182,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-rXMOt-TMJ_80bYw08uhcxgHaF6.jpeg 70,12,228,235,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-rdI7fBNlbP41ERjbwUYJPAHaIa.jpeg 30,41,204,191,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-rowWrJiEhRvY9cHrFILwWwHaEK.jpeg 106,45,255,165,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-rp_Ul6joiMjJVwsiUJfaSwAAAA.jpeg 7,6,291,297,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-rqV6wKqCLZ6eKo-dZsNcowHaEo.jpeg 56,6,218,187,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-rj-Frog198Io9WS9YrgPowHaE8.jpeg 49,41,211,192,1 196,104,290,187,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-rrkOpZ0fsGh_zA9Bz7bTOQHaE8.jpeg 21,18,300,200,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-s24s-w5XNjaxmoomPgRqogHaHa.jpeg 19,99,300,278,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-sHKVkgqdawQawx7KJtYIQQHaD3.jpeg 5,46,214,157,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-sS7okrsKnRJhJUj0BeY2wgHaEK.jpeg 90,0,231,169,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-sjeHzofdssb2vtWhVM8PGQHaFj.jpeg 7,12,293,218,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-smQd6DOHnj5-c1M9rBnFGgHaFp.jpeg 53,8,281,211,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-sp2GhKbYlbLULUipVmfIDAHaHr.jpeg 6,3,286,300,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-swEKT8Sz_nQGx9kRmdsSLgHaD4.jpeg 29,8,158,148,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-smZo9c9Ng4GI8JjE7X-fhgHaFO.jpeg 137,8,287,212,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-t-nJVWGZhEMb0rV4MJYYmgHaHa.jpeg 46,114,191,268,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-t0MG1MK-xopkGy8LUkxUcwHaE7.jpeg 72,2,230,188,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-t4wM7KtjIZzh5tIqGxxGFQHaFj.jpeg 12,58,139,170,1 137,63,276,173,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-tAVZqZhRnDrgFNqPKPnyEwHaEK.jpeg 10,12,127,169,1 207,14,268,140,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-t4ZQXGwFfaaQIW7xpdXd8QHaDw.jpeg 10,33,300,150,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-tC4SV6srFU3a-MgzWnVqxAHaEL.jpeg 35,18,184,157,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-tK4E6wg-FAJpk_ODBg4_rwHaLJ.jpeg 0,5,194,300,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-tPaE0ShipXAKXe0AVPksUAHaFj.jpeg 43,77,227,225,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-tQ2LTQ-TfPA57LUEfX5z9AHaGZ.jpeg 12,17,294,257,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-tJ0a9xrrbME6dIn969HNhgHaHX.jpeg 3,4,255,257,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-tRUs9kZ8xMpokwzuy71HPgHaFc.jpeg 41,13,296,190,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-tbqtlMh_7HjlTmg2UCsOLwAAAA.jpeg 12,50,251,190,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-tntHryCIA6Yo-DsnXjkixwAAAA.jpeg 11,0,298,192,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-trMDUWeGJ40Bpvl6AGJnsQHaFj.jpeg 140,33,264,201,1 66,132,140,184,1 11,74,131,191,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-tuTgZgDGj20uaqtcsLYFAgHaFj.jpeg 23,17,183,205,1 143,99,286,218,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-tvk7DqcaksIF5YXzg8WH5QHaLH.jpeg 14,61,188,292,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-vTGepm8oxn8bWhr5gXEMNQHaEt.jpeg 33,41,207,191,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-vOCBwfzcWtqFZtfapdD3dwHaF7.jpeg 0,59,228,229,1 99,46,254,228,1 234,33,300,220,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-vl2vGpynTLqCCNBiMXH9vgHaFM.jpeg 21,13,263,205,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-voBpUkO2Uq2eN7ui9fzWvAHaE7.jpeg 220,101,300,199,1 46,38,233,198,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-vpy0Wo6lkVofm8tI74PX8QHaEo.jpeg 52,19,228,179,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-vtySZRQKWXq_RqvEuqBLnwHaFL.jpeg 0,0,297,207,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-vqGUrmvRrnOMmWrNTLsYHAHaE7.jpeg 0,14,155,200,1 166,37,300,200,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-wDcTRjCMOHNSSDFKjBVDcQAAAA.jpeg 8,17,219,148,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-wBjRGUpWiunZCWtUZPG1sgHaF7.jpeg 138,29,260,200,1 69,139,152,211,1 15,73,129,192,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-wNFVMamXuzTG7X_rv12qzAHaE7.jpeg 28,13,262,193,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-wQeoIjVMKnD3jTPM8qkuHQHaFj.jpeg 50,4,241,225,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-wP9JwyEDsCndPpxlROAlwwHaE7.jpeg 191,64,286,197,1 123,75,171,167,1 61,84,114,160,1 11,70,51,137,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-wWCPYFsYnV0BShvASXH7EQHaFj.jpeg 41,85,253,223,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-wO3j3MnmigXJwkWPzOZ6jQHaFr.jpeg 134,42,245,192,1 15,51,160,209,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-wX1_OanXkh5Nk5NChD623AHaEo.jpeg 31,44,270,176,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-wZXgkanUsl1q7Mzh0IliegHaEK.jpeg 13,1,300,169,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-wiFFlWqTBRtH4GJUVbjK3gHaEK.jpeg 33,38,175,152,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-woJkmoeL_aMW9VRuOspHEAAAAA.jpeg 17,11,253,295,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-wqyuvTOOR95xSlHJydaFmAHaF1.jpeg 24,63,243,205,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-wteOhtLf3fGhjZC9H5hzEgHaE_.jpeg 26,17,265,172,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-wx41Rb-vF01wM2JKXpUbzgHaFe.jpeg 39,6,294,218,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-wxKaLAcA94Sf5lyZ65A08gHaFs.jpeg 92,155,213,220,1 19,3,278,222,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-x-gCvAEdOu9BPX7sw_xlggHaFh.jpeg 43,4,211,211,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-x3KN3jQLURJlZ0Ddw2ZpOwEsDH.jpeg 2,42,253,187,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-x3j4dh5yqBXjD-hhy3UiZAHaEK.jpeg 12,14,210,158,1 216,100,295,163,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-xFSeZnrbmHoG9KhzAmQ1UQHaE6.jpeg 9,33,269,164,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-xDNMDfAdG7DSnHcxPbB9WAHaGg.jpeg 2,2,300,264,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-x7TlMccOxT4A6ddemFGBygHaLH.jpeg 0,1,154,293,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-xH5dObcxVpJvOO8eeGSydgAAAA.jpeg 12,83,184,282,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-xMUdF7pdJW4u51I8vmsgDQHaKd.jpeg 1,13,213,300,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-xZD2U2o_YLgZ4G2bTDndzAHaE6.jpeg 68,57,207,155,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-xPFGaysthAEKSHncmx4EUgHaLH.jpeg 1,34,195,229,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-xQayN0uBce1rwsH0lzDJzAHaE8.jpeg 0,10,173,200,1 127,59,242,200,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-xOtC4Sdr42Afwcts7gG7MwHaEc.jpeg 123,12,266,166,1 17,105,74,172,1 19,12,89,74,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-xgax_8izswzmRrA2aVbq0gHaE8.jpeg 80,5,293,148,1 178,84,274,163,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-xdIAwrUoJuQtLE4ocYz86QHaE3.jpeg 72,12,258,190,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-xoRSiYHZ7fFrhV3NAnk3FQHaE5.jpeg 35,21,182,184,1 176,71,230,136,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-xi5QTYnu5IAVBlYS8AFePAAAAA.jpeg 95,4,300,225,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-xjWnJ4pG8caJHfzvVh3DcwAAAA.jpeg 25,9,249,178,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-xqXrWaG3c3dg-kLYKTrc-wHaDc.jpeg 99,4,253,140,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-xqs1Rb6Eki7e_zVEqKVcbgHaHB.jpeg 32,29,300,261,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-xswJIFgSP2Y3ns3HBnqfWAHaDK.jpeg 1,16,223,128,1 224,3,300,128,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-xwWrIzvhJ1vaokUaLyZ50AHaFc.jpeg 73,40,232,191,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-xwzQyekc4HrqPcSpS6DlyAHaFj.jpeg 30,19,271,202,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-y26yPV9EgCbFMmfxfVaiQQHaFj.jpeg 39,28,159,198,1 176,69,293,194,1 166,129,243,211,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-yRWJgpu2dvuRPKY1eDgNfAHaFj.jpeg 22,5,266,215,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-yNDf-ruD3aWAA14mJWpB1AHaEK.jpeg 225,62,298,124,1 193,90,227,127,1 135,66,199,123,1 107,89,151,124,1 47,73,99,125,1 4,67,40,126,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-yU-CsRDvGX7_8UYbtKi-MQHaE1.jpeg 85,16,265,184,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-yDn1ham7DjZ5oS4zGmiJLgAAAA.jpeg 18,14,292,276,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-y_k9wnt_j5pZZZe0yfd6dwHaFj.jpeg 26,17,253,207,1 14,99,209,221,1 6,133,148,218,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-yeIFN-pyg-Ewti8esESt9AHaFj.jpeg 145,23,283,208,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-yi3kvE7_uxui2a4F_PYyPQHaEK.jpeg 10,22,178,147,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-yoZ1Q3dD3VlNtSnBurtbswHaFR.jpeg 42,21,208,204,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-ysaCOurFtmn4JKvx1sFyhgHaFc.jpeg 11,3,300,209,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-z6azUmkPF2nT-MsFP3jp3AHaFj.jpeg 22,36,193,198,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-zN7aZgPbLjN9SRlIuoJruAAAAA.jpeg 4,2,181,300,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-z_vKf7Z8Gjs2JjkUTbbnrwHaGl.jpeg 93,27,240,210,1 57,132,163,227,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-zdLC6J2HBU8m5uGhQNupOgAAAA.jpeg 96,11,237,189,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-zbPZNqeqEZ8Nj5QmqSV23gHaE6.jpeg 34,25,139,169,1 119,40,263,179,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-zcxByXad8au5aZndi6SyqgEsDI.jpeg 0,11,238,200,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-zaY33YSyzBcvJq_2Fb504QHaE-.jpeg 8,7,193,202,1 224,38,300,190,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-zjO3Dp6jg-zilWTaQ184UgAAAA.jpeg 10,5,296,287,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-zfw5W7yP-utIh75Wrmaq4AHaE7.jpeg 18,40,279,171,1 111,114,214,184,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-zgqo-Q3nZAJiB-4_4V_OUgHaFj.jpeg 158,115,274,225,1 33,0,300,225,1 14,110,218,225,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/OIP-zwsmvOpywbUHPDIiA9vLBgHaEK.jpeg 40,11,300,167,1
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e032b5082ef61c22d2524518b7444f92e37fe5d404b0144390f8c078a0eabd_640.jpg 368,293,419,345,2 155,295,236,340,2 23,288,74,350,2 97,280,137,339,2 492,255,546,290,2 430,262,476,309,2 274,217,309,262,2 169,236,210,270,2 71,271,96,300,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e034b80f2ff61c22d2524518b7444f92e37fe5d404b0144390f8c078a0eabd_640.jpg 412,178,594,340,2 33,157,304,307,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e130b5072af71c22d2524518b7444f92e37fe5d404b0144390f8c078a0eabd_640.jpg 333,235,629,458,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e133b50c20f01c22d2524518b7444f92e37fe5d404b0144390f8c078a0eabd_640.jpg 198,96,403,381,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e132b30e20f01c22d2524518b7444f92e37fe5d404b0144390f8c078a1ebb2_640.jpg 123,72,562,391,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e037b00b2af41c22d2524518b7444f92e37fe5d404b0144390f8c078a0eabd_640.jpg 116,29,581,390,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e830b1072ef6043ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 166,50,624,417,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e13cb60a2bf31c22d2524518b7444f92e37fe5d404b0144390f8c078a0eabd_640.jpg 155,13,640,410,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e830b10b2df5003ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 142,96,506,395,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e13cb60a2bfc1c22d2524518b7444f92e37fe5d404b0144390f8c078a1ebb2_640.jpg 54,43,403,426,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e830b4062ff3043ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 364,7,640,381,2 42,7,424,366,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e830b4062ff3053ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 39,206,228,559,2 214,191,394,519,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e830b70621f1003ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 255,301,510,428,2 36,285,159,402,2 443,200,507,264,2 225,237,329,317,2 97,238,177,302,2 27,213,76,246,2 111,203,159,254,2 203,207,256,231,2 564,201,618,260,2 280,187,331,213,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e830b90728f4033ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 406,265,482,335,2 73,302,218,391,2 289,305,419,388,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e830b70b2df4013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 226,322,394,474,2 214,92,562,405,2 110,14,273,264,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e830b5082ff6013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 0,52,298,421,2 406,108,572,406,2 313,3,640,407,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e830b9082df7013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 247,6,640,494,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e831b30c2ef6063ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 103,120,374,410,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e830b90c2ef1003ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 220,103,600,402,2 142,157,371,310,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e831b3082af31c22d2524518b7444f92e37fe5d404b0144390f8c078a0eabd_640.jpg 5,168,233,305,2 0,222,148,427,2 172,229,528,392,2 113,58,462,214,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e831b30c2ef7063ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 41,39,553,423,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e832b30e2df5053ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 243,24,640,399,2 34,74,290,360,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e832b6092bf4023ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 91,61,519,413,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e832b5072ae90021d85a5854ee454296eb70e3c818b413449df1c07ca2e4_640.jpg 224,313,401,426,2 116,300,269,425,2 0,288,119,426,2 474,157,640,359,2 364,189,449,290,2 182,213,284,294,2 45,178,192,296,2 117,71,198,149,2 441,76,540,137,2 567,80,640,179,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e832b10c2ef41c22d2524518b7444f92e37fe5d404b0144390f8c078a1ebb2_640.jpg 70,0,617,473,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e832b7092ff6033ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 347,325,399,390,2 99,331,184,379,2 289,332,338,373,2 481,323,542,366,2 441,364,534,420,2 579,328,639,396,2 174,303,213,341,2 36,302,71,364,2 216,306,260,336,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e832b70c2bf3073ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 343,151,547,367,2 163,128,326,330,2 52,64,344,305,2 340,36,601,290,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e833b10a2dfd093ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 110,209,345,422,2 23,157,246,376,2 263,209,545,435,2 216,98,624,356,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e833b10728f7033ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 21,153,442,407,2 156,140,561,355,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e833b10a2dfd073ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 23,54,423,640,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e832b80721f1013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 132,49,408,328,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e833b80b2ff5053ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 267,85,539,320,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e833b90b2df7073ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 140,115,457,439,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e834b20820f1033ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 305,124,610,480,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e834b3072af6033ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 442,207,601,389,2 16,70,343,396,2 364,34,610,281,2 251,20,389,227,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e834b50721fd083ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 346,192,555,425,2 9,211,277,425,2 33,133,265,298,2 566,87,640,248,2 397,96,515,237,2 6,97,220,222,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e835b30d2ef0063ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 392,28,640,417,2 148,9,388,426,2 22,32,283,421,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e835b00d2afd093ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 0,16,514,360,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e835b20b29f0093ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 11,4,626,411,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e835b20b29f0083ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 27,6,640,426,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e835b10c28f3093ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 268,204,541,428,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e835b6092cf4043ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 260,88,367,240,2 337,63,560,204,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e835b40e28f0053ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 65,225,270,487,2 288,166,617,462,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e835b90e21f1013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 338,117,521,381,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e835b90e2bfc013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 97,201,193,264,2 28,184,107,251,2 209,196,274,265,2 273,195,341,243,2 373,194,427,238,2 433,190,485,235,2 490,184,559,225,2 93,160,121,189,2 159,177,203,214,2 210,167,247,197,2 55,163,88,201,2 152,161,177,188,2 11,156,40,188,2 590,183,617,206,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e836b1092ef6003ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 535,74,640,282,2 358,54,522,332,2 100,44,316,330,2 0,29,111,327,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e836b1092ef6093ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 0,74,294,490,2 170,136,587,485,2 370,16,640,356,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e836b30b2bfd063ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 0,108,503,426,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e836b10a2ef5023ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 52,21,555,430,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e836b30c21f4033ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 159,79,640,421,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e836b20a2cfc073ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 55,20,541,424,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e836b40c2af2073ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 45,293,376,616,2 413,178,635,317,2 133,6,395,271,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e836b30f21f0013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 0,78,283,417,2 239,54,640,417,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e836b8062cf7083ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 0,5,568,426,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e836b40c2af1003ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 229,100,640,352,2 0,185,217,374,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e836b80729fd083ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 175,90,476,376,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e837b10f2df7083ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 197,63,396,346,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e837b5092af4053ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 279,125,382,351,2 531,173,611,315,2 469,144,545,289,2 431,112,501,273,2 369,114,414,264,2 180,213,257,311,2 122,155,206,265,2 42,155,108,224,2 6,156,62,224,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e837b90621f6083ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 268,314,489,599,2 130,335,332,604,2 23,72,363,529,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e83cb60c2df1033ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 65,115,280,301,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e83cb2072af51c22d2524518b7444f92e37fe5d404b0144390f8c078a2e8bc_640.jpg 17,129,482,322,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e83db20a2ff1093ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 0,110,347,399,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e83db30d29f7063ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 0,22,527,424,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e83cb90a28fc093ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 25,88,464,480,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e83db1072cf6013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 248,80,441,404,2 189,188,360,426,2 106,192,211,315,2 423,187,623,379,2 512,126,640,287,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e83db40e2af5003ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 221,147,428,330,2 262,215,364,358,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e83db6082cf7013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 373,261,450,309,2 210,284,345,377,2 120,290,198,372,2 29,311,88,350,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e83db40e2bf1053ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 210,102,391,334,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e83db50a28f1073ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 72,127,287,323,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e83db50d29f4073ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 249,120,390,264,2 557,139,612,233,2 514,143,571,256,2 464,150,520,258,2 421,117,488,252,2 378,107,432,244,2 201,136,282,240,2 85,134,229,253,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e83db7072bf7043ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 100,264,205,394,2 226,259,349,392,2 344,208,463,396,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/e83db70828f1053ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 91,121,574,426,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea34b00e2ef3073ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 55,39,588,440,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea34b10b2df2093ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 119,70,408,366,2 347,100,596,398,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea31b40921f51c22d2524518b7444f92e37fe5d404b0144390f8c078a0eabd_640.jpg 174,52,640,455,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea34b0062bf4063ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 0,39,479,374,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea34b30e2ff3093ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 101,141,640,426,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea34b20821f2013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 297,141,518,348,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea34b50c2bf1083ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 158,131,284,253,2 239,188,344,309,2 440,278,523,378,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea34b20b2bfd003ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 123,182,324,324,2 292,200,482,326,2 419,129,468,170,2 277,132,338,172,2 144,129,197,176,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea34b10b2df3033ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 319,101,519,359,2 23,129,318,390,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea34b50e2cf0083ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 210,116,346,221,2 327,13,395,63,2 464,90,593,186,2 450,9,544,78,2 500,22,613,96,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea34b60c29fd033ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 148,97,473,336,2 204,212,326,361,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea34b60b2af5033ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 121,35,470,383,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea34b6082ef7073ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 40,121,290,361,2 276,116,538,329,2 187,62,326,167,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea34b60c29fd003ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 231,61,525,345,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea34b80629f5013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 373,163,518,295,2 11,111,147,229,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea34b7092ef7043ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 80,112,335,321,2 320,114,567,327,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea34b90728f2093ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 52,69,427,396,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea34b9062cf5003ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 59,83,555,524,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea34b90e2df0073ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 102,36,542,392,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea35b30a20f2073ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 171,94,522,418,2 386,137,627,336,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea35b1062cfc013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 136,77,567,340,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea35b2062ef2073ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 281,139,640,411,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea35b20720f4043ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 162,204,314,355,2 322,177,469,332,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea35b30c2df6013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 298,251,469,420,2 33,260,246,426,2 168,216,281,284,2 4,225,89,284,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea35b6082bf6083ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 106,139,340,368,2 372,136,542,379,2 294,4,516,186,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea35b60920f6013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 176,20,598,429,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea35b7072bfc033ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 278,190,440,395,2 94,201,308,383,2 279,76,443,238,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea35b50d2df2093ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 243,118,548,326,2 93,98,372,294,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea35b7072cf3083ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 24,2,640,403,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea35b70b2ff7043ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 253,131,458,343,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea35b70f2ff0063ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 58,16,576,460,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea35b70820f2033ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 0,109,611,437,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea35b70820f3043ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 10,18,593,640,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea35b70f20f2023ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 17,147,244,291,2 289,141,566,294,2 425,91,623,199,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea35b80d2cf6013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 52,24,520,416,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea35b90d2ef3023ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 109,36,640,426,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea35b90f21f1003ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 374,122,466,201,2 582,123,640,220,2 155,157,291,223,2 88,158,138,206,2 30,144,88,210,2 279,154,350,238,2 308,110,337,138,2 517,103,549,129,2 7,109,43,128,2 85,100,135,128,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea35b90f21f3043ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 76,39,502,371,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea35b80620f6013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 26,13,480,640,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b10a29f4083ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 12,67,581,426,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b10d2df3023ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 218,164,388,310,2 149,99,470,327,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b10a2bf5093ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 175,46,520,427,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b10821f31c22d2524518b7444f92e37fe5d404b0144390f8c078a2e8bc_640.jpg 200,83,557,462,2 104,45,343,312,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b10a2bf5063ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 80,15,472,403,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b10d2df3043ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 178,189,317,350,2 243,120,452,343,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b20e2efc083ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 233,104,468,318,2 60,134,192,256,2 422,104,570,223,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b10e21f5093ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 311,208,414,336,2 229,216,314,336,2 60,200,157,265,2 498,174,579,251,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b20621f2023ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 64,5,596,459,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b20621f0013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 94,75,575,625,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b20f29f1093ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 183,113,448,338,2 516,253,610,347,2 601,203,640,313,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b3062af3053ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 341,152,606,390,2 109,170,257,351,2 36,119,236,277,2 253,97,332,331,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b3082ff2063ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 0,31,565,426,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b3082ff2083ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 36,108,292,378,2 264,35,536,302,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b30820f1023ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 8,53,514,426,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b30f28f1053ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 188,90,493,335,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b30e2cfd093ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 17,135,227,285,2 359,145,490,312,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b40728f0043ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 140,56,640,395,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b4082ef3053ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 81,4,640,416,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b40921fd013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 171,91,516,381,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b50721f0053ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 275,3,640,316,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b50721f1013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 41,40,640,436,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b50721f1073ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 101,150,397,542,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b50721f7003ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 36,19,627,425,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b50721f7053ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 34,88,397,626,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b50e2afc053ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 123,178,414,396,2 464,141,640,301,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b50821fd093ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 85,122,477,392,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b50e2ef5093ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 155,47,569,330,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b50e2ef5033ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 327,163,508,419,2 195,196,395,428,2 0,62,312,419,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b6062df3093ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 299,280,584,404,2 31,276,298,404,2 309,182,406,275,2 237,125,326,223,2 85,200,224,286,2 129,9,283,102,2 448,78,640,210,2 348,105,476,187,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b60d2afd023ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 18,153,286,531,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b70828f7083ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 518,113,614,341,2 427,77,497,226,2 54,203,227,358,2 178,143,261,285,2 0,37,129,149,2 140,7,224,56,2 177,63,259,130,2 244,84,389,269,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b60a2bf6063ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 309,73,612,402,2 41,26,357,305,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b60f21f1033ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 178,158,371,351,2 43,224,190,345,2 323,235,405,339,2 411,253,474,319,2 518,270,558,323,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b60e20fd003ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 4,41,294,615,2 231,252,432,634,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b70c2cfd063ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 207,3,640,424,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b70f29f2013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 72,2,640,382,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b00629f3033ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 388,144,617,379,2 0,78,167,225,2 232,175,386,324,2 80,131,317,245,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b70c2ef4003ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 59,71,640,426,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea36b70c2cfd043ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 23,27,455,424,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b0072bf1043ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 160,69,640,426,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b0082af3013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 0,90,427,410,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b10720f3093ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 145,89,464,348,2 440,166,556,334,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b10720f3083ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 85,75,314,268,2 126,27,491,261,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b10720fc063ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 301,76,534,276,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b40b2ef5013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 361,50,617,318,2 284,82,494,278,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b4072bfc013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 189,230,433,424,2 23,64,400,308,2 324,8,553,304,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b10f2efc073ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 122,25,518,426,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b20f2ef01c22d2524518b7444f92e37fe5d404b0144390f8c078a1ebb2_640.jpg 59,119,317,367,2 362,138,606,391,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b10720fd093ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 44,78,306,366,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b40e2cf4003ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 36,129,298,417,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b40b2ff6093ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 169,39,477,417,2 403,22,640,362,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b50728f2003ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 81,24,569,426,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b40b2ff6043ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 14,24,640,426,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b40f2afd043ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 0,8,468,425,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b5092ff5083ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 0,10,478,426,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b50a29f2053ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 148,111,362,373,2 330,132,626,382,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b50728f2013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 32,21,632,371,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b5092ff6013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 0,78,330,426,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b60d2cf2063ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 88,14,640,424,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b60d2ef1043ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 45,24,640,414,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b70c2af4093ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 70,66,382,323,2 364,125,505,304,2 524,88,637,208,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b70c2af5043ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 268,59,508,453,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b70c2af6013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 267,231,363,363,2 116,229,238,347,2 44,166,151,314,2 475,222,627,320,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b70e2bfd083ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 137,88,519,369,2 268,7,377,95,2 378,15,541,128,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b80b20f0023ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 16,3,595,426,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b80f2af5003ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 80,191,563,416,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b90b2dfd063ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 29,93,317,406,2 283,53,640,426,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b90b2dfd083ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 282,183,563,416,2 172,175,397,364,2 73,145,279,304,2 518,107,640,231,2 4,105,177,255,2 284,58,393,175,2 373,116,492,223,2 197,63,297,144,2 107,56,182,118,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b80b20f5003ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 156,6,612,347,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b90b2ef4023ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 0,17,519,492,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea37b90b2ef4073ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 151,136,407,382,2 452,87,640,363,2 321,93,513,284,2 9,58,264,285,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ea3db50928fc1c22d2524518b7444f92e37fe5d404b0144390f8c078a1ebb2_640.jpg 82,115,268,366,2 250,9,564,406,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3cb00d20f3053ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 34,2,640,426,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3cb00d20f3063ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 99,27,545,416,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3cb10820fd093ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 142,81,445,282,2 18,28,160,217,2 468,14,640,268,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3cb00d20fc013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 123,25,379,367,2 299,153,553,381,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3cb00d2cf7033ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 298,48,528,310,2 145,175,322,337,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3cb10929f2023ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 0,0,454,348,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3cb10929f5083ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 0,85,595,418,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3cb1092af7053ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 205,64,623,373,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3cb30b21f0063ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 131,47,567,394,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3cb30b21f2043ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 133,47,578,358,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3cb30e2afd043ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 160,27,504,426,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3cb30e20f4033ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 1,3,475,385,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3cb40b2afd033ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 65,172,278,404,2 216,129,377,271,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3cb40e2df7063ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 94,69,295,335,2 450,263,560,349,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3cb50b2df3043ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 425,252,507,360,2 261,225,338,337,2 229,190,324,317,2 195,198,261,264,2 403,181,449,277,2 436,139,489,210,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3cb30e2ffd003ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 93,4,640,484,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3cb60b2efc093ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 232,192,434,380,2 36,56,252,251,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3cb60c2bf0063ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 14,10,546,426,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3cb80d2ef1083ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 392,154,516,325,2 236,163,415,301,2 169,151,360,272,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3cb90f21f0033ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 328,157,420,263,2 252,175,306,243,2 452,158,548,225,2 398,143,446,235,2 157,174,214,231,2 99,175,174,253,2 48,171,87,256,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3db10f29fc083ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 158,50,640,406,2 109,119,336,321,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3db10a28f1023ed1584d05fb1d4e9fe777ead218ac104497f5c978a6ebb3bf_640.jpg 237,133,540,368,2 138,89,384,203,2 533,92,640,177,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3db20f2df4013ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 40,218,165,354,2 144,141,270,384,2 243,108,378,332,2 366,80,523,356,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3db40b2ef1073ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 301,141,568,346,2 15,110,269,356,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3db40a21f4043ed1584d05fb1d4e9fe777ead218ac104497f5c978a6e8b0b1_640.jpg 198,161,549,393,2
+/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/eb3db40b2ef1053ed1584d05fb1d4e9fe777ead218ac104497f5c978a6eab2b0_640.jpg 60,65,569,617,2
