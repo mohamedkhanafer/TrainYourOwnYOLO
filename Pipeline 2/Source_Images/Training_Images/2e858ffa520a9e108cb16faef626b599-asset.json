@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2e858ffa520a9e108cb16faef626b599",
+        "name": "e21_jpg.rf.ec0d1644f31b68ecc2a6c288ccbe171d.jpg",
+        "path": "file:/Users/mohamedkhanafer/Documents/GitHub/TrainYourOwnYOLO/Data/Source_Images/Training_Images/e21_jpg.rf.ec0d1644f31b68ecc2a6c288ccbe171d.jpg",
+        "size": {
+            "width": 416,
+            "height": 416
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "5ljWm89Z0",
+            "type": "RECTANGLE",
+            "tags": [
+                "elephant"
+            ],
+            "boundingBox": {
+                "height": 134.4476643598616,
+                "width": 253.82425028835064,
+                "left": 162.17574971164936,
+                "top": 129.1059688581315
+            },
+            "points": [
+                {
+                    "x": 162.17574971164936,
+                    "y": 129.1059688581315
+                },
+                {
+                    "x": 416,
+                    "y": 129.1059688581315
+                },
+                {
+                    "x": 416,
+                    "y": 263.5536332179931
+                },
+                {
+                    "x": 162.17574971164936,
+                    "y": 263.5536332179931
+                }
+            ]
+        },
+        {
+            "id": "Vo6r82x1U",
+            "type": "RECTANGLE",
+            "tags": [
+                "elephant"
+            ],
+            "boundingBox": {
+                "height": 149.34630911188003,
+                "width": 224.41493656286042,
+                "left": 2.777681660899654,
+                "top": 58.34818339100346
+            },
+            "points": [
+                {
+                    "x": 2.777681660899654,
+                    "y": 58.34818339100346
+                },
+                {
+                    "x": 227.1926182237601,
+                    "y": 58.34818339100346
+                },
+                {
+                    "x": 227.1926182237601,
+                    "y": 207.6944925028835
+                },
+                {
+                    "x": 2.777681660899654,
+                    "y": 207.6944925028835
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
