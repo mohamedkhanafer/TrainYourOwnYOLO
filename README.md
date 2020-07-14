@@ -13,7 +13,7 @@ I used the original code (mentioned below) to build 3 pipelines:
 
 After building the 3 pipelines, the goal is to link the object detector to a livestream broadcasted by my drone, to be able to process real-time footage:
 
-[pipeline](https://github.com/mohamedkhanafer/TrainYourOwnYOLO/blob/master/3_Inference/pipeline.png)
+![pipeline](https://github.com/mohamedkhanafer/TrainYourOwnYOLO/blob/master/3_Inference/pipeline.png)
 
 My whole work and a detailed step by step explanation can be found in this [Google Colab Notebook](https://colab.research.google.com/drive/1hJH0TXcwQEljgXfvd9DnYGNO2mgQxcKm?usp=sharing). 
 
