@@ -13,7 +13,7 @@ I used the original code (mentioned below) to build 3 pipelines:
 
 After building the 3 pipelines, the goal is to link the object detector to a livestream broadcasted by my drone, to be able to process real-time footage:
 
-[pipeline](/3_Inference/pipeline.png)
+[pipeline](https://github.com/mohamedkhanafer/TrainYourOwnYOLO/blob/master/3_Inference/pipeline.png)
 
 My whole work and a detailed step by step explanation can be found in this [Google Colab Notebook](https://colab.research.google.com/drive/1hJH0TXcwQEljgXfvd9DnYGNO2mgQxcKm?usp=sharing). 
 
@@ -32,5 +32,3 @@ This great repo simplified the building of a custom YOLO Object detector pipelin
  	- Detecting objects in new images and videos
 
 I would recommend visiting the original repository for greater details or the author's [blog post](https://medium.com/@muehle/how-to-train-your-own-yolov3-detector-from-scratch-224d10e55de2).
-
-
